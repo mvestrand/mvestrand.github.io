@@ -1,0 +1,15 @@
+@media print, screen and not (max-width: 960px) {
+
+    .wrapper {
+        width:960px;
+        margin:0 auto;
+    }
+
+    section {
+        width:600px;
+        float:right;
+        padding-bottom:50px; 
+    }
+
+}
+
