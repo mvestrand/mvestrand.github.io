@@ -6,7 +6,7 @@
 #### [Star Gun](https://mvest.itch.io/msu-2d-shooter) (2023)
 
 A vertical slice of a top-scrolling arcade style danmaku game I made in Unity for an online course offered by MSU.  
-<figure style="float: right; width: 30vw; min-width: 200px; max-width: 480px; max-height: 640; margin: 10px;" >
+<figure style="float: right; width: 30vw; min-width: 200px; max-width: 480px; max-height: 640px; margin: 10px;" >
 <img src="images/stargun_screenshot.png"/>
 <figcaption style="font-size:11px; text-align:center;">The boss segment at the end of the level.</figcaption>
 </figure>
