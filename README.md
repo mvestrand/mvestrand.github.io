@@ -1,4 +1,6 @@
-## Portfolio
+[Portfolio page](https://mvestrand.github.io)
+
+A portfolio of various coding projects I've done over the years. 
 
 
 
