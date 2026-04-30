@@ -6,7 +6,7 @@
 #### [Star Gun](https://mvest.itch.io/msu-2d-shooter) (2023)
 
 A vertical slice of a top-scrolling arcade style danmaku game I made in Unity for an online course offered by MSU.  
-<figure style="float: right; width: 30vw; min-width: 200px; margin: 10px;" >
+<figure style="float: right; width: 30vw; min-width: 200px; max-width: 480px; max-height: 640; margin: 10px;" >
 <img src="images/stargun_screenshot.png"/>
 <figcaption style="font-size:11px; text-align:center;">The boss segment at the end of the level.</figcaption>
 </figure>
@@ -76,7 +76,7 @@ I ended up making this as a way to learn and practice using Unity without also t
 
 There are some issues with it, such as missing sound effects and  incorrect behavior. Unfortunately, its difficult to fix because the code for it is poorly structured. It would need such a large refactor that it likely be better to completely rebuild it from the ground up.
 
-<figure style="float: right; width: 30vw; min-width: 200px; margin: 10px;" >
+<figure style="float: right; width: 30vw; min-width: 200px;  margin: 10px;" >
 <img src="images/pacman_in-editor.png"/>
 <figcaption style="font-size:11px; text-align:center;">Screenshot of the custom spawning and pathing tilemap editor in unity.</figcaption>
 </figure>
