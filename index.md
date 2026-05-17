@@ -22,8 +22,8 @@ If it were to be made into a full game, I would probably also pace out and expan
 
 *Note: If the movement feels off in the browser based game (eating input, no diagonal movement, etc.), try using one of the downloadable versions instead.  There's a weird issue in some browsers which seems to limit the number of simultaneous held keys, causing frustrating issues. There is no way to resolve it, as far as I can tell, other than digging into Unity's input system.*
 
-itch.io: *https://mvest.itch.io/msu-2d-shooter*<br>
-Source on github: *https://github.com/mvestrand/MSU-2DShooter*
+Release build:&emsp;*<a href="https://mvest.itch.io/msu-2d-shooter"> mvest.itch.io/msu-2d-shooter</a>*<br>
+Source code:&emsp;*<a href="https://github.com/mvestrand/MSU-2DShooter">github.com/mvestrand/MSU-2DShooter</a>*
 
 ###### Potential improvements that could be made
 - The mines need a visible radius to indicate where is safe and convey that they are proximity activated (also potentially add a short, visible activation delay).
@@ -56,7 +56,8 @@ I different option I had considered was moving towards a *Metroidvania* style, b
 
 One aspect I had planned to eventually focus on was environmental storytelling and obstacles to give the game a simple narrative. An inspiration and a good example of what I mean, is the game *Inside*, which manages to tell a compelling story without a single line of dialogue. A basic narrative can give even a short game like I was making a better sense of completeness. I had ideas for this in mind, but I hadn't yet reached the stage where I thought it was worth pursuing. I would only consider it something to focus on when closer to midway through the project, after the core gameplay was working. 
 
-Source on github: *https://github.com/mvestrand/msu-2dplatformer* <br>
+Release build:&emsp;*<a href=""><s>github.com/mvestrand/msu-2dplatformer</s></a>* <br>
+Source code:&emsp;*<a href="https://github.com/mvestrand/msu-2dplatformer">github.com/mvestrand/msu-2dplatformer</a>* <br>
 
 
 <hr style="clear: both">
@@ -65,7 +66,7 @@ Source on github: *https://github.com/mvestrand/msu-2dplatformer* <br>
 #### [Personal unity tools library](https://github.com/mvestrand/unity-tools) (2023)
 Various bits of Unity c# code that I refactored into a simple library for reuse. It has code for object pooling, type serialization, and global variables (that is, ScriptableObjects that store variables as data assets that can be injected into fields in the editor).
 
-github: *https://github.com/mvestrand/unity-tools*
+Source code: *https://github.com/mvestrand/unity-tools*
 <hr style="clear: both">
 
 
@@ -81,8 +82,8 @@ There are some issues with it, such as missing sound effects and  incorrect beha
 <figcaption style="font-size:11px; text-align:center;">Screenshot of the custom spawning and pathing tilemap editor in unity.</figcaption>
 </figure>
 
-Release build: *https://github.com/mvestrand/pacman-clone/releases/tag/v0.1*<br>
-Source on github: *https://github.com/mvestrand/pacman-clone* 
+Release build:&emsp;*<a href="https://github.com/mvestrand/pacman-clone/releases/tag/v0.1">github.com/mvestrand/pacman-clone/releases/tag/v0.1</a>* <br>
+Source code:&emsp;*<a href="https://github.com/mvestrand/pacman-clone">github.com/mvestrand/pacman-clone</a>* <br>
 <hr style="clear: both">
 
 
