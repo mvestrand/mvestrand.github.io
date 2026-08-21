@@ -1,5 +1,8 @@
 title: Max Vestrand
 logo: "/images/profile-pic_2026.png?raw=true" 
+domain: mvestrand.github.io
+url: https://mvestrand.github.io
+baseurl: ""
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
   
@@ -8,3 +11,20 @@ plugins:
 - jekyll-remote-theme
 
 # google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+
+
+# Site author info
+author:
+  # Biographic information
+  avatar           : "profile.png"
+  name             : "Max Vestrand"
+  pronouns         : # example: "she/her"  
+  bio              : "Short biography for the left-hand sidebar"
+  email            : # example: "none@example.org" 
+  location         : # example: "Earth"
+  employer         : # example: "Red Brick University"
+  uri              : # URL
+
+  github: "github.com/mvestrand"
+
+
