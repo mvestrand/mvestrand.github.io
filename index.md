@@ -5,7 +5,7 @@
 ### [Star Gun](portfolio/stargun) (2023)
 <img src="images/stargun_thumb.png"/>
 
-A vertical slice of a top-scrolling arcade style danmaku game I made in Unity.  This was a solo project made for an online game design course offered by <a href="https://gamedev.msu.edu/">MSU</a>.  Making it involved creating pixel art animations, sound effects, and level sequencing tools to supplement the basic assets provided.  However for me the biggest takeaway from it was the importance of controlling scope.  I set out from the start to make this as a vertical slice, and it shows in the level of polish on the final product.
+A vertical slice of a top-scrolling arcade style danmaku game I made in Unity.  This was a project made for an online game design course offered by <a href="https://gamedev.msu.edu/">MSU</a>.  Making it involved creating pixel art animations, sound effects, and level sequencing tools to supplement the basic assets provided.  However for me the most impactful experience from it was the importance of controlling scope.  I set out from the start to make this as a vertical slice, and it shows in the level of polish on the final product.
 
 
 Release build:&emsp;*<a href="https://mvest.itch.io/msu-2d-shooter"> mvest.itch.io/msu-2d-shooter</a>*<br>
@@ -18,7 +18,7 @@ Source code:&emsp;*<a href="https://github.com/mvestrand/MSU-2DShooter">github.c
 ### [2D Platformer Early Prototype](portfolio/2dplatformer) (2023)
 <img src="images/500x300.png"/>
 
-A partially complete 2d platformer made in Godot for the same online course as Star Gun.  It was a solo project made for the same online course as Star Gun.
+A partially complete 2d platformer made in Godot for the same online course as Star Gun.  It was ultimately abandoned along with the rest of the course after becoming disillusioned with the online course's lack of feedback and engagement.  I was still in the middle of working out mechanics, movement, and camera behavior, so there is only one level and some simple obstacles made for testing.  The main takeaway from it for me was the need for community—for other people to share ideas with, look to for advice, and get feedback from.
 
 
 Source code:&emsp;*<a href="https://github.com/mvestrand/msu-2dplatformer">github.com/mvestrand/msu-2dplatformer</a>* <br>
