@@ -5,7 +5,7 @@ layout: default
 
 A partially complete 2d platformer made in Godot.  It was a solo project made as part of an online course in game design offered by MSU.
 
-<img  src="images/platformer2d.png"/>
+<img  src="../images/platformer_level.png"/>
 
 It was ultimately abandoned along with the rest of the course after becoming disillusioned with the online course's lack of feedback and engagement. The code and assets provided by the course were for a Unity project, but I rebuilt them in Godot as an exercise. I was still in the middle of working out mechanics, movement, and camera behavior, so there is only one level and some simple obstacles made for testing.  
 
@@ -19,7 +19,7 @@ One aspect I had planned to eventually focus on was environmental storytelling a
 One idea was to give the player a "magneto-wrench" that they would use as their primary tool for interacting with the world. They would use it as a sort of grapple hook for movement, a weapon to throw and whack enemies with, and as a way to interact with level elements like switches and vents. 
 
 <figure style="margin: 20px;" >
-<img src="images/plat2d-unfinished.png"/>
+<img src="../images/platformer_unfinished-content.png"/>
 <figcaption style="font-size:11px; text-align:center;">Basic enemies, health pickups, and moving platforms were implemented, but had yet to actually be used in a level.</figcaption>
 </figure>
 

@@ -6,14 +6,14 @@ layout: default
 This was a *very* minimal game I made when first learning OpenGL.  
 
 <figure style="max-width: 900px; margin: 20px;">
-<img src="images/cube-wars_title.jpg"/>
+<img src="../images/cube-wars_menu.jpg"/>
 <figcaption style="font-size:11px; text-align:center;">The main menu consisted of a rotating title with all of the setup done through the console.</figcaption>
 </figure>
 
 The players control little wedges that can jump and drop bombs to destroy terrain and players. The goal was to be the last one alive for the most rounds, defeating the other players without falling or exploding.  The destroyed blocks would sometimes drop power ups to make the player move faster, have more bombs, or bigger explosions.
 
 <figure style="max-width: 450px; margin: 20px;">
-<img src="images/cube-wars_gameplay.png"/>
+<img src="../images/cube-wars_gameplay.png"/>
 <figcaption style="font-size:11px; text-align:center;">Red & blue players with an orange explosion.  The brown tiles have a single hp left before they break.</figcaption>
 </figure>
 
