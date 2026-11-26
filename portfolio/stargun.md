@@ -7,7 +7,7 @@ layout: default
 
 # [Star Gun](https://mvest.itch.io/msu-2d-shooter) (2023)
 <figure style="max-width: 40%;padding: 20px; margin:0px; float:right" >
-<img style="max-height: 360px;" src="../images/stargun_screenshot.png"/>
+<img style="max-height: 360px;" src="../images/stargun_endboss.png"/>
 <figcaption style="text-wrap:pretty; font-size:11px; text-align:center;">The boss segment at the end of the level.  The player doesn't have room to look at the top of the screen, so the background's movement acts as a secondary visual indicator of time remaining.</figcaption>
 </figure>
 Star Gun is vertical slice of a top-scrolling arcade style danmaku game I made in Unity for an online course.  The finished game consists of a single level a few minutes long including a midboss and multi-phase end of level boss.  The enemy patterns are entirely controlled using Unity's Timeline module and spline code I wrote for it.  The choreography was also done with custom-made editor tools integrated into the timeline editor.  
